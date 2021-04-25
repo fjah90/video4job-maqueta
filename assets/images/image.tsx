@@ -1,0 +1,9 @@
+export const bgGradiant = (require('../images/bg.png') );
+export const logoWhite = (require('../images/logo.png') );
+export const logoGrey = (require('../images/logogris.png') );
+export const geoMap = (require('../images/geoMap.png') );
+export const userDummy = (require('../images/oval-img-candidate.png') );
+export const profileDummy = (require('../images/oval-img-profile.png') );
+export const paypal = (require('../images/paypal.png') );
+export const visaMastercard = (require('../images/visa-mastercard.png') );
+export const wireTransfer = (require('../images/wire-transfer.png') );

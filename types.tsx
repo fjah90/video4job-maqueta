@@ -1,0 +1,22 @@
+export type RootStackParamList = { //Stack for app navigate without
+  Login: undefined;
+  EmailLogin: undefined;
+  Root: undefined;
+  Register: undefined;
+  Location: undefined;
+  Terms: undefined;
+  BusinessData: undefined;
+  OfertCreate:undefined;
+  FlashCards:undefined;
+  FlashFilter:undefined;
+  FlashCandidateProfile:undefined;
+  ListCandidate:undefined;
+  ListFavorites:undefined;
+  ListOffers:undefined;
+  ProfileBusiness:undefined;
+  MyShopList:undefined;
+  ShoppingCard:undefined;
+  WayToPay:undefined;
+  Success:undefined;
+  NotFound: undefined;
+};
