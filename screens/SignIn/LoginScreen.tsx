@@ -1,8 +1,8 @@
 import * as React from 'react';
 import { ImageBackground, TouchableOpacity, Image, View, Text } from 'react-native';
 
-import styles from '../../../assets/styles/styles';
-import { bgGradiant, logoWhite } from '../../../assets/styles/styles';
+import styles from '../../assets/styles/styles';
+import { bgGradiant, logoWhite } from '../../assets/images/image';
 import { FontAwesome } from '@expo/vector-icons';
 
 export default function LoginScreen({ navigation }) {
